@@ -19,7 +19,7 @@ The repository is organized as follows:
 
 - mQTL: This folder stores codes for the identification of methylation quantitative trait loci (mQTLs).
 
-- EWAS: This folder contains scripts for the epigenome-wide association study (EWAS) of cancer.
+- EWAS: This folder contains scripts for the epigenome-wide association study (EWAS).
 
 - Associated-genes: his folder contains codes for the identification of methylation-associated genes.
 
