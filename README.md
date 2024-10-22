@@ -21,7 +21,7 @@ The repository is organized as follows:
 
 - EWAS: This folder contains scripts for the epigenome-wide association study (EWAS).
 
-- Associated-genes: his folder contains codes for the identification of methylation-associated genes.
+- Associated-genes: This folder contains codes for the identification of methylation-associated genes.
 
 Please note that some of the code can be easily modified to perform similar analyses, such as EWAS for each cancer. Only one copy is provided here for easier follow-up.
 
