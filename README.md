@@ -15,9 +15,13 @@ The repository is organized as follows:
 
 - Figures: This folder contains codes for generating the main figures.
 
-- Short-read_sequencing: This folder contains scripts related to analyzing DNA methyaltion in short-read sequencing data.
+- Methyaltion_variability: This folder contains scripts related to analyzing DNA methyaltion variability across individuals in 42 tissues.
 
-- Unambigous_probes_identification: This folder stores codes for the identification of unambiguous probe sets in DNA methyaltion arrays.
+- mQTL: This folder stores codes for the identification of methylation quantitative trait loci (mQTLs).
+
+- EWAS: This folder contains scripts for the epigenome-wide association study (EWAS) of cancer.
+
+- Associated-genes: his folder contains codes for the identification of methylation-associated genes.
 
 Please note that some of the code can be easily modified to perform similar analyses, such as with the HM450K, EPIC, and EPICv2 arrays. Only one copy is provided here for easier follow-up.
 
